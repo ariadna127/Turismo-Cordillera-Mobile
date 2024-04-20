@@ -1,0 +1,125 @@
+.grilla {
+  padding-top: 4rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  gap: 1rem;
+}
+.grilla__card {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: stretch;
+  flex: 1;
+  gap: 1rem;
+  background-color: white;
+}
+.grilla__card-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: stretch;
+  gap: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
+
+.grilla__card img {
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+}
+.grilla__card p,
+.grilla__card h3 {
+  color: black;
+}
+.grilla__card p {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+}
+.header__secundaria {
+  width: 100%;
+  height: 30vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header__titulo {
+  width: 100%;
+  height: 20vh;
+  padding-left: 3rem;
+  background-color: var(--naranja);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.header__titulo h2 {
+  text-transform: uppercase;
+}
+.excursiones {
+  background-image: url("../assets/tren-rojo-ancho-1920.jpg");
+}
+
+.card__categorias {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: start;
+}
+.card__categorias div {
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  border: 1px solid var(--naranja);
+  padding: 0.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card__categorias div svg {
+  max-width: 80%;
+  fill: var(--naranja);
+}
+
+.card__info {
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+.card__info div:first-child p {
+  font-weight: bolder;
+}
+.card__button {
+  appearance: none;
+  border: 1px solid var(--naranja);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+.card__button {
+  background-color: var(--naranja);
+}
+.referencias {
+  display: flex;
+  justify-content: start;
+  gap: 1rem;
+}
+.referencias__iconos {
+  display: flex;
+  max-width: 4rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.referencias__iconos svg {
+  max-width: 2rem;
+  max-height: 2rem;
+}
+.small {
+  font-size: 0.7rem;
+  line-height: 0.8rem;
+}
+.intro p {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+}

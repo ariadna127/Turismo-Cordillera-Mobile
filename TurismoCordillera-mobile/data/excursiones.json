@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titulo": "Alta y Termas",
+    "categorias": ["family", "spa", "bus", "food"],
+    "horario": "Salida: 7:30 - Regreso: 18:00",
+    "duracion": "10 h",
+    "disponibilidad": "Lunes, Miércoles, Viernes",
+    "itinerario": [
+      "Salida a las 7:30 hs desde el Escudo de Plaza Independencia",
+      "Tomamos Ruta Provincial 82 y luego empalmamos con Ruta 7 pasando por Vila Uspallata hasta llegar a Puente del Inca. Parada de 30 minutos.",
+      "Continuamos hasta la base del Cerro Aconcagua en la que podrán tomar fotos.",
+      "Partimos rumbo a TermasCacheuta antes de las 12:00 hs.",
+      "Llegamos a Cacheuta para almorzar a las 14:00 hs. Menú a confirmar.",
+      "Luego de almorzar cada uno podrá disfrutar del Parque de Agua hasta las 18:00"
+    ],
+    "resumen": "Un recorrido increible por las rutas que usó San Martín, pasando por sitios icónicos de Mendoza, como son Potrerillos, Uspallata y el Puente del Inca entre otros.",
+    "descripcion": "La estratégica ubicación de MENDOZA, en el oeste de Argentina, al pie de la Cordillera de Los Andes, y frente al principal puerto de Chile: Valparaiso, hicieron necesario la construcción de una ruta y túneles que sigue en muchos tramos el trazado por el Ejército de Los Andes, que comandó San Martín en su gesta libertadora de Chile y Perú. A la vera del camino nos acompañará el Rio Mendoza, de gran caudal en las épocas de deshielo.  Por aquí salen la producción de Argentina, Uruguay, Paraguay y Brasil al Pacífico.Este cruce tiene además otra importancia fundamental: atraviesa Los Andes a 3000 metros, entre las montañas más altas de Occidente: El Aconcagua, el Tupungato, el Tolosa, y muchos de 6000 mts.snm. Solamente en el Himalaya se puede apreciar tan magnífica belleza y para ello se requiere un gran viaje y andar a caballo muchos kilómetros. Aquí lo apreciará desde la ruta, como tocándolo con la mano. Hacer el cruce por tierra es un viaje inolvidable, conociendo los sitios destacados como: Valle de Potrerillos, Valle de Uspallata, Punta de Vacas y el mirador del Tupungato, el Puente Natural del Inca, El Aconcagua y la Villa de Las Cuevas, donde se accede al Tunel Cristo Redentor que nos vincula con Chile. Luego de los trámites aduaneros y migratorios (que se realizan en un solo control), ingresamos por la Laguna del Inca, los Caracoles de Portillo, bordeando el rio Aconcagua, a Los Andes primera población importante en Chile, para dirigirnos desde allí a su capital SANTIAGO DE CHILE. Arribo al lugar previsto.hs. Partimos puntuales",
+    "precio": 10000
+  },
+  {
+    "id": 2,
+    "titulo": "Andes Truck Villavicencio",
+    "categorias": ["family", "bus", "footprints", "pictures"],
+    "horario": "Salida: 8:00 - Regreso: 19:00",
+    "duracion": "5 h",
+    "disponibilidad": "Miércoles, Viernes, Sábado, Domingo",
+    "itinerario": [
+      "Minitrekking guiado en sitios exclusivos de Andes Truck, Hornillos, Quebrada del Toro, Portezuelo del Milagro, Manto de Cobre."
+    ],
+    "descripcion": "Temprano por la mañana saldremos de su hotel, hacia el parador del Hotel Villavicencio. Un tour que propone visitar algunos sitios de esta excepcional área natural protegida, con una superficie de 62 000 ha, y miembro de la Fundación Vida Silvestre de Argentina. Una vez arribados al parador, nuestro guía dará una charla introductoria sobre el recorrido sus principales atractivos y entregará los elementos de seguridad para realizar la actividad. A bordo del Truck se visitarán increíbles parajes protegidos e inaccesibles para otros vehículos. Nuestras paradas serán: Hornillos, Quebrada del Toro, Portezuelo del Milagro, Manto de Cobre. Finalmente se arribará hasta la Cruz de Paramillos y a pocos metros el Mirador del Aconcagua, un lugar privilegiado para observar al coloso de América (a 3.100 metros sobre el nivel del mar, el punto más alto del recorrido y también el punto final de la Reserva).",
+    "precio": 25000
+  }
+]
